@@ -57,3 +57,6 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aylok1n&layout=compact)](https://github.com/aylok1n)
+
+---
+![Leetcode Stats](https://leetcard.jacoblin.cool/aylok1n)
